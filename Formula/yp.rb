@@ -4,7 +4,7 @@ class Yp < Formula
   desc "Search YouTube and play audio-only from the terminal"
   homepage "https://github.com/johyun/yp"
   url "https://github.com/johyun/yp/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "FILL_IN_AFTER_RELEASE"
+  sha256 "a644eb5d9dca71d48d1db6d09da08699406a12008cf3c33e61a7f556afbc3775"
   license "MIT"
 
   depends_on "mpv"
