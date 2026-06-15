@@ -11,8 +11,8 @@ class Yp < Formula
   depends_on "python@3.11"
 
   resource "yt-dlp" do
-    url "https://files.pythonhosted.org/packages/b0/19/399c85d29bd7b366b31ede82698f7963374e5a3842ae9de0cde6514506b0/yt_dlp-2025.10.14-py3-none-any.whl"
-    sha256 "0b9da17eda1bbf48e2315130043d7993fd4ca1c5a35571f8231da1a910c9c115"
+    url "https://files.pythonhosted.org/packages/f3/ee/188a3dadf9dfdac713243521f919feca1cd091d4358c9ea7e8ebb710a7cc/yt_dlp-2026.6.9-py3-none-any.whl"
+    sha256 "442ba4c75724b9496144c8434b617962ee08d0ee7c26ec663848fe9b78d5a3e4"
   end
 
   resource "questionary" do
