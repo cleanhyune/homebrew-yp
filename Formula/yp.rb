@@ -3,8 +3,8 @@ class Yp < Formula
 
   desc "Search YouTube and play audio-only from the terminal"
   homepage "https://github.com/cleanhyune/yp-player-in-cli"
-  url "https://github.com/cleanhyune/yp-player-in-cli/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "03e723e710059113b43c9d8e9386d8bed42ee6b707593c6a9f3e637ba87b380a"
+  url "https://github.com/cleanhyune/yp-player-in-cli/archive/refs/tags/v0.3.3.tar.gz"
+  sha256 "340f3ee662be21910b659bcb13a0e9eee7c1d1b4e19fb6a1950c81397bc7173e"
   license "MIT"
 
   depends_on "mpv"
